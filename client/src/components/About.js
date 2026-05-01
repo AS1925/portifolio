@@ -20,12 +20,6 @@ function About() {
             <p className="text-lg text-gray-400 leading-relaxed">
               My mission is to create web solutions that are not only technologically sound but also provide exceptional user experiences.
             </p>
-
-            <div className="pt-4">
-              <a href="#" className="btn-primary inline-block">
-                Download Resume
-              </a>
-            </div>
           </div>
 
           {/* Visual Element */}

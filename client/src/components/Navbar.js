@@ -36,15 +36,6 @@ function Navbar() {
             >
               {isDark ? "🌙" : "☀️"}
             </button>
-
-            {/* Resume Button */}
-            <a 
-              href="/resume.pdf" 
-              download="Anitha_Resume.pdf"
-              className="hidden sm:block btn-primary text-sm cursor-pointer"
-            >
-              Resume
-            </a>
           </div>
         </div>
       </div>
